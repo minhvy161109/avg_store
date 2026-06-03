@@ -1,0 +1,2 @@
+# avg_store
+root
